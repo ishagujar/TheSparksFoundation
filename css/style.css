@@ -108,7 +108,7 @@ li:hover::before{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:linear-gradient(rgb(0,0,0,0.5),rgba(0,0,0,0.9)),url(/images/IMG-3606.jpg);
+    background:linear-gradient(rgb(0,0,0,0.5),rgba(0,0,0,0.9)),url(/images/IMG-3606.JPG);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
